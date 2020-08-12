@@ -1,7 +1,7 @@
 # iGEM_fudan_2015
 fudan iGEM 2015 - Cyclize It! - modeling part 
 
-The repository includes the configuration files and few log files for the Molecular Dynamics (MD) modeling we performed in the iGEM 2015 project. In brief, we did MD simulation to investigate the linker conformation in our fusion protein design, which in turn may guide our design. Unfortunately, we didn't finish the program back in 2015, due to the limited time and computational resources. This repository is to only provide the original scripts and data to show how we configurate the MD simulation of a cyclic protein and how we used it to help optimal linker design. Due to the size limit of GitHub, we didn't include the output files (trajectory files) of this simulation. 
+The repository includes the configuration files and few log files for the Molecular Dynamics (MD) modeling we performed in the iGEM 2015 project. In brief, we did MD simulation to investigate the linker conformation in our fusion protein design, which in turn may guide our design. Unfortunately, we didn't finish the program back in 2015, due to the limited time and computational resources. This repository is to only provide the original scripts and data to show how we configurated the MD simulation of a cyclic protein and how we used it to help optimal linker design. Due to the size limit of GitHub, we didn't include the output files (trajectory files) of this simulation. 
 
 
 ## Getting Started
