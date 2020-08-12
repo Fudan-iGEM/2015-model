@@ -1,0 +1,18 @@
+1.GGGGS
+Used in: Imaging dynamics of endogenous mitochondrial RNA in single living cells.
+human PUMILIO1 (828-1176 amino acids) 
+Fusion construct: MTS-EGFP(1-157)-GGGGS(linker)-mPUM1-Flag. 
+
+2. linker:VDTGNGS by (http://www.ibi.vu.nl/programs/linkerdbwww)
+Used in: Engineering RNA Endonucleases with Customized Sequence
+Specificities
+Fusion construct: N-PUF-LINKER-PRO1
+
+3.Gly 4 Ser linker (PUMHD3809–CitC)
+Used in: Live-cell imaging of viral RNA genomes using a Pumilio-based
+reporter
+
+4.(GGGGS)4 LINKER
+Used in: Targeted translational regulation using the PUF protein
+family scaffold
+Fusion construct: PUF-LINKER-PRO1

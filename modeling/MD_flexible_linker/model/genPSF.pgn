@@ -1,0 +1,12 @@
+package require psfgen
+topology top_all27_prot_lipid.inp
+pdbalias residue HIS HSE
+pdbalias atom ILE CD1 CD
+segment U {pdb modp.pdb 
+first none
+last none
+}
+coordpdb modp.pdb U
+guesscoord
+writepdb mod_start.pdb
+writepsf mod_start.psf

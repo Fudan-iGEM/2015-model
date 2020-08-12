@@ -1,0 +1,135 @@
+PyMPyMOL>rotate y ,-180 , s_puf
+PyMOL>rotate y ,-10 , s_puf
+PyMOL>rotate x,-10 , s_puf
+PyMOL>rotate x,-10 , s_puf
+PyMOL>rotate x,-10 , s_puf
+PyMOL>rotate x,-10 , s_puf
+PyMOL>rotate x,10 , s_puf
+PyMOL>rotate x,10 , s_puf
+PyMOL>rotate x,10 , s_puf
+PyMOL>rotate x,10 , s_puf
+PyMOL>rotate x,10 , s_puf
+PyMOL>rotate x,10 , s_puf
+PyMOL>rotate x,-10 , s_puf
+PyMOL>rotate x,-3 , s_puf
+PyMOL>rotate z,10 , s_puf
+PyMOL>rotate z,3, s_puf
+PyMOL>rotate x,3, s_puf
+PyMOL>rotate x,3, s_puf
+PyMOL>rotate x,3, s_puf
+PyMOL>rotate x,-9, s_puf
+PyMOL>rotate y,3, s_puf
+PyMOL>rotate y,3, s_puf
+PyMOL>rotate y,3, s_puf
+PyMOL>rotate y,3, s_puf
+PyMOL>rotate y,3, s_puf
+PyMOL>rotate y,-10, s_puf
+PyMOL>rotate y,-5, s_puf
+PyMOL>rotate y,-5, s_puf
+PyMOL>rotate y,5, s_puf
+PyMOL>rotate y,5, s_puf
+PyMOL>rotate y,5, s_puf
+PyMOL>rotate y,5, s_puf
+PyMOL>rotate y,5, s_puf
+PyMOL>rotate y,5, s_puf
+PyMOL>rotate y,5, s_puf
+PyMOL>rotate z,5, s_puf
+PyMOL>rotate z,5, s_puf
+PyMOL>rotate z,5, s_puf
+PyMOL>rotate z,5, s_puf
+PyMOL>rotate z,-5, s_puf
+PyMOL>rotate z,-3, s_puf
+PyMOL>rotate z,-3, s_puf
+PyMOL>rotate z,-3, s_puf
+PyMOL>rotate z,-3, s_puf
+PyMOL>rotate z,-3, s_puf
+PyMOL>rotate z,-3, s_puf
+PyMOL>rotate z,-3, s_puf
+PyMOL>rotate z,-3, s_puf
+PyMOL>PyMOL>rotate z,3, s_puf
+PyMOL>rotate z,21, s_puf
+PyMOL>rotate z,-15, s_puf
+PyMOL>otate y,-5, s_puf
+Traceback (most recent call last):
+  File "/usr/lib/python2.7/dist-packages/pymol/parser.py", line 464, in parse
+    exec(layer.com2+"\n",self.pymol_names,self.pymol_names)
+  File "<string>", line 1
+    otate y,-5, s_puf
+          ^
+SyntaxError: invalid syntax
+PyMOL>otate y,-5, s_puf
+Traceback (most recent call last):
+  File "/usr/lib/python2.7/dist-packages/pymol/parser.py", line 464, in parse
+    exec(layer.com2+"\n",self.pymol_names,self.pymol_names)
+  File "<string>", line 1
+    otate y,-5, s_puf
+          ^
+SyntaxError: invalid syntax
+PyMOL>otate y,-5, s_puf
+Traceback (most recent call last):
+  File "/usr/lib/python2.7/dist-packages/pymol/parser.py", line 464, in parse
+    exec(layer.com2+"\n",self.pymol_names,self.pymol_names)
+  File "<string>", line 1
+    otate y,-5, s_puf
+          ^
+SyntaxError: invalid syntax
+PyMOL>otate y,-5, s_puf
+Traceback (most recent call last):
+  File "/usr/lib/python2.7/dist-packages/pymol/parser.py", line 464, in parse
+    exec(layer.com2+"\n",self.pymol_names,self.pymol_names)
+  File "<string>", line 1
+    otate y,-5, s_puf
+          ^
+SyntaxError: invalid syntax
+PyMOL>rotate y,-5, s_puf
+PyMOL>rotate y,-5, s_puf
+PyMOL>rotate y,-5, s_puf
+PyMOL>rotate y,-5, s_puf
+PyMOL>rotate y,-5, s_puf
+PyMOL>rotate y,5, s_puf
+PyMOL>rotate y,5, s_puf
+PyMOL>rotate y,5, s_puf
+PyMOL>rotate y,-5, s_puf
+PyMOL>rotate y,-5, s_puf
+PyMOL>rotate y,-5, s_puf
+PyMOL>rotate z,-5, s_puf
+PyMOL>rotate z,5, s_puf
+PyMOL>rotate z,5, s_puf
+PyMOL>rotate z,5, s_puf
+PyMOL>rotate x,5, s_puf
+PyMOL>rotate y,5, s_puf
+PyMOL>rotate z,5, s_puf
+PyMOL>rotate y,5, s_puf
+PyMOL>rotate y,-5, s_puf
+PyMOL>rotate y,-5, s_puf
+PyMOL>rotate y,-5, s_puf
+PyMOL>rotate y,-5, s_puf
+PyMOL>rotate x,-5, s_puf
+PyMOL>rotate x,-5, s_puf
+PyMOL>rotate x,-5, s_puf
+PyMOL>rotate x,-5, s_puf
+PyMOL>rotate z,-5, s_puf
+PyMOL>rotate z,5, s_puf
+PyMOL>rotate z,5, s_puf
+PyMOL>rotate x,5, s_puf
+PyMOL>rotate y,5, s_puf
+PyMOL>rotate y,5, s_puf
+PyMOL>rotate y,5, s_puf
+PyMOL>rotate y,-5, s_puf
+PyMOL>rotate y,-5, s_puf
+PyMOL>rotate y,-5, s_puf
+ You clicked /s_puf//B/ASP`835/CA
+ Selector: selection "sele" defined with 1 atoms.
+ You clicked /s_puf//B/GLU`834/CA
+ You clicked /s_puf_180_50a//B/LYS`1153/CD
+ Selector: selection "sele" defined with 1 atoms.
+ You clicked /s_puf//B/ARG`829/CA
+PyMOL>translate [50,0,0],s_puf
+PyMOL>translate [-50,0,0],s_puf
+PyMOL>translate [-50,0,0],s_puf
+PyMOL>translate [10,0,0],s_puf
+PyMOL>translate [5,0,0],s_puf
+PyMOL>create placed ,s_puf s_puf_180_50a
+ Selector: found 5754 atoms.
+ Executive: object "placed" created.
+ Save: wrote "/home/hanghang/Desktop/modelling/placed.pdb".
