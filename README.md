@@ -29,4 +29,6 @@ model/MD_flexible_linker/: the MD simulation of flexible linker design. See "mod
 
 model/MD_rigid_linker/: the MD simulation of rigid linker design. See "mod.conf" for configurations. 
 
+model/MD_force_pulling/: the MD simulation where we force pulling the two PUF apart to access the maximum length of the flexible linker. See "mod.conf" for configurations. 
+
 
